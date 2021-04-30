@@ -1,0 +1,16 @@
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.exe
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.deps.json
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.runtimeconfig.json
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.runtimeconfig.dev.json
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.dll
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\bin\Debug\net5.0\ref\ProyectoFinal.dll
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\bin\Debug\net5.0\ProyectoFinal.pdb
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.dll
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\obj\Debug\net5.0\ref\ProyectoFinal.dll
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.pdb
+C:\Users\randy\Documents\VSCODE\Proyecto Final C#\ProyectoFinal\obj\Debug\net5.0\ProyectoFinal.genruntimeconfig.cache
